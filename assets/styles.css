@@ -1,0 +1,14 @@
+
+.jumbotron{
+	background-image: url("http://i.4cdn.org/w/1535412214145.png");
+	background-size: cover;
+	color: #ffffff;
+}
+
+#animes{
+	padding: 3%;
+}
+
+div{
+	margin-bottom: 2%;
+}
